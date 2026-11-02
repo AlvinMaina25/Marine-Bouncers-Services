@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Marine Bouncers logo mark">
+  <!-- Marine Bouncers master mark: teal shield with check on dark navy rounded square -->
+  <rect x="8" y="8" width="496" height="496" rx="112" fill="#0F172A"/>
+  <rect x="8" y="8" width="496" height="496" rx="112" fill="none" stroke="#2DD4BF" stroke-opacity="0.18" stroke-width="8"/>
+  <path d="M156 170 L256 138 L356 170 V270 C356 336 314 382 256 398 C198 382 156 336 156 270 Z"
+        fill="none" stroke="#2DD4BF" stroke-width="42" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M212 268 L246 302 L310 234"
+        fill="none" stroke="#2DD4BF" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
